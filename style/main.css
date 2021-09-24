@@ -1,0 +1,90 @@
+.container-fluid {
+  min-height: 2200px;
+}
+
+.box {
+  position: relative;
+}
+
+.box1 {
+  position: absolute;
+  top: 180px;
+}
+
+.box1 h4 {
+  font-weight: bolder;
+}
+
+.box2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.box2 input {
+  font-size: 12px;
+}
+
+.box2 button {
+  font-size: 12px;
+}
+
+.box-text h5 {
+  font-weight: bolder;
+  padding-top: 10px;
+}
+
+.box-text p {
+  font-size: 12px;
+}
+
+.box-text i {
+  font-size: 50px;
+}
+
+.cl1-1 {
+  padding-top: 80px;
+}
+
+.cl1-1 h4 {
+  font-weight: bolder;
+}
+
+.cl1-1 p {
+  font-size: 12px;
+}
+
+.box-tx b {
+  display: block;
+  margin-top: 10px;
+}
+
+.box-tx p {
+  font-size: 12px;
+}
+
+.boo2 {
+  position: relative;
+}
+
+.boo1 {
+  position: absolute;
+}
+
+.boo1 h5 {
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.ppf ins {
+  padding-right: 15px;
+  font-size: 13px;
+}
+
+.ppf1 i {
+  padding-right: 10px;
+}
+/*# sourceMappingURL=main.css.map */

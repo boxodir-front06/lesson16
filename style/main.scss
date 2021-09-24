@@ -1,0 +1,78 @@
+.container-fluid{
+    min-height: 2200px;
+}
+.box{
+    position: relative;
+}
+.box1{
+    position: absolute;
+    top: 180px;
+    h4{
+        font-weight:bolder;
+       
+    }
+}
+.box2{
+        display: flex;
+        justify-content: center;
+        input{
+            font-size: 12px; 
+        }
+        button{
+            font-size: 12px;
+        }
+}
+.box-text{
+    
+    h5{
+        font-weight: bolder;
+        padding-top: 10px;
+    }
+    p{
+        font-size: 12px;
+    }
+    i{
+        font-size: 50px;
+    }
+}
+.cl1-1{
+    padding-top: 80px;
+    h4{
+        font-weight: bolder;
+    }
+   p{
+       font-size: 12px;
+   }
+}
+.box-tx{
+    
+    b{
+        display: block;
+        margin-top: 10px ;
+    }
+    p{
+        font-size: 12px;
+    }
+}
+
+.boo2{
+    position: relative;
+}
+.boo1{
+    position: absolute;
+    h5{
+        font-weight:bolder;
+        font-size: 20px;
+    }
+}
+.ppf{
+    ins{
+        padding-right: 15px;
+        font-size: 13px; 
+   }
+}
+.ppf1{
+  i{
+    padding-right: 10px;
+  }
+}
